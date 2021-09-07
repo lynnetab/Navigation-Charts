@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+<Document>
+	<name>Parma.A2009284.0300.250m.jpg</name>
+	<LookAt id="khLookAtParma">
+		<longitude> 113.00</longitude>
+		<latitude>  17.00</latitude>
+		<altitude>0.00</altitude>
+		<range>1017460.0</range>
+		<tilt>   0.0</tilt>
+		<heading>   0.0</heading>
+	</LookAt>
+	<Style id="caption">
+		<BalloonStyle>
+		<text>$[description]</text>
+		</BalloonStyle>
+	</Style>
+	<Snippet></Snippet>
+	<description><![CDATA[
+Tropical Storm Parma (19W) approaching China and Vietnam
+]]>
+	</description>
+	<GroundOverlay>
+		<name>Parma.A2009284.0300.250m.jpg</name>
+		<Icon>
+			<href>http://rapidfire.sci.gsfc.nasa.gov/gallerydata/2009284-1011/Parma.A2009284.0300.250m.jpg</href>
+		</Icon>
+		<LatLonBox id="khLatLonBoxParma">
+			<north>25.092200</north>
+			<south>8.904400</south>
+			<east>119.518500</east>
+			<west>106.483800</west>
+			<rotation>   0.00</rotation>
+		</LatLonBox>
+	</GroundOverlay>
+	<ScreenOverlay>
+		<name>MODIS Rapid Response Gallery, NASA Goddard Space Flight Center</name>
+		<Icon>
+			<href>http://rapidfire.sci.gsfc.nasa.gov/images/mrr_banner.png</href>
+		</Icon>
+		<overlayXY x="0" y="1" xunits="fraction" yunits="fraction"/>
+		<screenXY x="0" y="1" xunits="fraction" yunits="fraction"/>
+		<rotationXY x="0" y="0" xunits="fraction" yunits="fraction"/>
+		<size x="0" y="0" xunits="fraction" yunits="fraction"/>
+	</ScreenOverlay>
+</Document>
+</kml>
